@@ -4,5 +4,6 @@ public class Main {
         System.out.println("White");
         System.out.println("Black");
         System.out.println("Green");
+        System.out.println("hello");
     }
 }
